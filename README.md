@@ -54,6 +54,14 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/Ange
 
 ---
 
+## 🔒 Privacy Policy
+
+Read our full [Privacy Policy](PRIVACY.md).
+
+**TL;DR:** We don't collect any data. Everything stays on your device.
+
+---
+
 ## 📬 Contact
 
 For other inquiries, you can reach out via [GitHub Issues](https://github.com/AngelicInsight/positivitytap-support/issues).
